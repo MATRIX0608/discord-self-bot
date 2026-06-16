@@ -179,6 +179,6 @@ client.on('ready', async () => {
 
 
 // login
-client.login("MTM2OTMzNzY3MTE5Mjk0MDY4NQ.GbNknM.kLSR5tQCrE0OKrRPdnSrIhHUQwuHGRx9Op2VMM")
+client.login("token")
 
     
